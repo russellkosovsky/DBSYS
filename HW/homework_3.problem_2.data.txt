@@ -1,0 +1,35 @@
+Table	Id	Name	Street	City
+employee	111	John	Green St	Manchester
+employee	222	Sam	Green St	Manchester
+employee	333	Jill	Orange St	Portland
+employee	444	Erica	Apple Ave	Portland
+employee	555	James	Blueberry St	Atlanta
+employee	666	Sam	Dogwood St	Oakland
+employee	777	Alex	Maple St	Chicago
+employee	444	Erica	Apple Ave	Portland
+employee	888	Kate	Oak Ave	Austen
+
+Table	Id	Company	Salary
+works	111	First Bank	900000
+works	222	First Bank	150000
+works	333	2nd Bank	90000
+works	444	3rd Bank	110000
+works	555	My Bank	75000
+works	666	Not a bank	80000
+works	777	Banksie	95000
+works	888	Texas Bank	11000
+
+Table	Company	City
+company	First Bank	Hartford
+company	2nd Bank	Portland
+company	3rd Bank	Portland
+company	My Bank	Atlanta
+company	Not a bank	Oakland
+company	Banksie	Chicago
+company	Texas Bank	Austen
+
+Table	e_Id	m_Id
+manager	111	222
+manager	333	444
+manager	555	666
+manager	777	666
